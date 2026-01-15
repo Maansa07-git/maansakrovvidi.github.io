@@ -28,36 +28,17 @@ I'm a PhD student at the University of California, Santa Cruz (UCSC), advised by
   <div style="flex: 1; min-width: 250px;">
     <h2>Education</h2>
 
-    <p><strong>University of California, Santa Cruz</strong><br>
+    <p><strong>University of California, Santa Cruz, CA, USA</strong><br>
     Ph.D. in Electrical and Computer Engineering<br>
-    Advisor: Prof. Colleen Josephson<br>
     Sept 2025 – May 2030<br>
-    California, USA</p>
 
-    <ul>
-      <li><strong>Research Interests:</strong> Wireless sensing, Internet of Things (IoT), energy-efficient systems, wireless sensor networks</li>
-      <li><strong>Scholarships:</strong> UC Regents Scholarship recipient (Fall 2025)</li>
-    </ul>
-
-    <p><strong>Carnegie Mellon University</strong><br>
+    <p><strong>Carnegie Mellon University, PA, USA</strong><br>
     Master of Science in Mobile and IoT Engineering (MSMITE)<br>
-    Advisor: Prof. Quinn Jacobson<br>
     Aug 2022 – May 2024<br>
-    California, USA</p>
 
-    <ul>
-      <li><strong>Thesis:</strong> Activity Detection using RF and Sensor Data Fusion</li>
-    </ul>
-
-    <p><strong>Chaitanya Bharathi Institute of Technology</strong><br>
+    <p><strong>Chaitanya Bharathi Institute of Technology, Hyderabad, India</strong><br>
     Bachelor of Engineering in Electronics and Communication Engineering<br>
-    Advisor: Prof. Sai Krishna Kondoju<br>
     Aug 2017 – Aug 2021<br>
-    Hyderabad, India</p>
-
-    <ul>
-      <li><strong>Thesis:</strong> Performance Analysis of ZF-SIC and MMSE Equalizers for MIMO Systems in the Presence of Alpha (α)-Mu (µ) Fading Channel</li>
-    </ul>
 
   </div>
 
