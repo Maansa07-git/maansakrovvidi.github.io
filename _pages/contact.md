@@ -1,15 +1,26 @@
+
 ---
+
 title: "Contact"
 permalink: /contact/
 layout: single
+--------------
+
+## Contact Information
+
+### Email
+
+* **Institutional:** [mkrovvid@ucsc.edu](mailto:mkrovvid@ucsc.edu)
+* **Personal:** [maansakrovvidi@gmail.com](mailto:maansakrovvidi@gmail.com)
+* **Alumni:** [mkrovvid@alumni.cmu.edu](mailto:mkrovvid@alumni.cmu.edu)
+
 ---
 
-📧 **Email:** mkrovvid@ucsc.edu
-  **Personal Email:** maansakrovvidi@gmail.com
-  **Alternative Email:** mkrovvid@alumni.cmu.edu
+### Address
 
-🏢 **Address:**  
-jLab in Smart Sensing  
+**jLab – Smart Sensing**
 WRP C182
 2300 Delaware Ave
 Santa Cruz, CA 95060
+USA
+
