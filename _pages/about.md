@@ -30,16 +30,12 @@ I'm a PhD student at the University of California, Santa Cruz (UCSC), advised by
 
     <p><strong>University of California, Santa Cruz, CA, USA</strong><br>
     Ph.D. in Electrical and Computer Engineering<br>
-    Sept 2025 – May 2030<br>
 
     <p><strong>Carnegie Mellon University, PA, USA</strong><br>
-    Master of Science in Mobile and IoT Engineering (MSMITE)<br>
-    Aug 2022 – May 2024<br>
+    Master of Science in Mobile and IoT Engineering (MSMITE), 2024<br>
+
 
     <p><strong>Chaitanya Bharathi Institute of Technology, Hyderabad, India</strong><br>
-    Bachelor of Engineering in Electronics and Communication Engineering<br>
-    Aug 2017 – Aug 2021<br>
-
+    Bachelor of Engineering in Electronics and Communication Engineering, 2021<br>
   </div>
 
-</div>
