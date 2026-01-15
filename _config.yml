@@ -24,11 +24,11 @@ repository               : "Maansa07-git/maansakrovvidi.github.io"
 author:
   # Biographic information
   avatar           : "maansa.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Maansa Krovvidi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "My personal webpage"
+  location         : "2300 Delaware Ave, Santa Cruz, CA 95060"
+  employer         : "University of California, Santa Cruz"
   uri              : # URL
   email            : "mkrovvid@ucsc.edu" 
 
