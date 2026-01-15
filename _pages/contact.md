@@ -1,10 +1,8 @@
-
 ---
-
 title: "Contact"
 permalink: /contact/
 layout: single
---------------
+---
 
 ## Contact Information
 
@@ -23,4 +21,3 @@ WRP C182
 2300 Delaware Ave
 Santa Cruz, CA 95060
 USA
-
