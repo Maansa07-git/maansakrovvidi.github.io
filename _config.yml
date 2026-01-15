@@ -23,7 +23,7 @@ repository               : "Maansa07-git/maansakrovvidi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "maansa.jpg"
+  avatar           : "myprofile.png"
   name             : "Maansa Krovvidi"
   pronouns         : # example: "she/her"  
   bio              : "My personal webpage"
