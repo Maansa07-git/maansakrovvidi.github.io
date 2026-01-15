@@ -4,8 +4,6 @@ permalink: /contact/
 layout: single
 ---
 
-## Contact Information
-
 ### Email
 
 * **Institutional:** [mkrovvid@ucsc.edu](mailto:mkrovvid@ucsc.edu)
