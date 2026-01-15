@@ -37,5 +37,5 @@ I'm a PhD student at the University of California, Santa Cruz (UCSC), advised by
 
     <p><strong>Chaitanya Bharathi Institute of Technology, Hyderabad, India</strong><br>
     Bachelor of Engineering in Electronics and Communication Engineering, 2021<br>
-  </div>
+  
 
