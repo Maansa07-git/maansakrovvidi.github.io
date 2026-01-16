@@ -1,8 +1,9 @@
 ---
-title: "Contact"
 permalink: /contact/
 layout: single
 ---
+
+## Contact Information
 
 ### Email
 
@@ -11,11 +12,10 @@ layout: single
 * **Alumni:** [mkrovvid@alumni.cmu.edu](mailto:mkrovvid@alumni.cmu.edu)
 
 ---
-
 ### Address
-
-**jLab – Smart Sensing**
-WRP C182
-2300 Delaware Ave
-Santa Cruz, CA 95060
+**jLab – Smart Sensing**  
+WRP C182  
+2300 Delaware Ave  
+Santa Cruz, CA 95060  
 USA
+
